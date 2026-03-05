@@ -1,4 +1,4 @@
-# 🎨 Automated Color-Matching System for Paint Manufacturing
+# Automated Color-Matching System for Paint Manufacturing
 
 **Oleh:** Rahmat Sidiq Suryakusuma, S.Tr. Kimia Analis  
 **Role:** Quality Control (QC) & Data Enthusiast  
