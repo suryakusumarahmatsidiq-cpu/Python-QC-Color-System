@@ -1,6 +1,6 @@
 # Automated Color-Matching System for Paint Manufacturing
 
-**Oleh:** Rahmat Sidiq Suryakusuma, S.Tr. Kimia Analis  
+**Oleh:** Rahmat Sidiq Suryakusuma, S.Tr.Si  
 **Role:** Quality Control (QC) & Data Enthusiast  
 **Tech Stack:** Python, Pandas, Data Analysis, Microsoft Excel  
 
